@@ -8,6 +8,6 @@
 
 ### You are just one click away from me!
 
-<a href="https://www.linkedin.com/in/ahmet-kurt-ce/">
+<a href="https://www.linkedin.com/in/ahmet-kurt-bm/">
     <img src="linkedin.png" width="40px" height="40px">
 </a>
