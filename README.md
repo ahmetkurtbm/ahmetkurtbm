@@ -2,9 +2,9 @@
 
 ### I'm Ahmet and welcome to my GitHub profile 👋
 
-- I'm a computer science student at Marmara University, Turkey 🏫
+- I'm a computer science engineer Istanbul , Turkey 🏫
 - I love Coding 🚀
-- I'm learning React and Node ☁
+- I'm learning Coding every day ☁
 
 ### You are just one click away from me!
 
