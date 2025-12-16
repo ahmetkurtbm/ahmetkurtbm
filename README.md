@@ -14,6 +14,6 @@
 </a>
 
 <a href="https://ahmetkurt.vercel.app/">
-    <img src="ahmetkurt.png" width="40px" height="40px">
+    <img src="ahmetkurt.png" width="80px" height="80px">
 </a>
 </div>
