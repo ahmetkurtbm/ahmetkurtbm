@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/ahmet-kurt-bm/">
     <img src="linkedin.png" width="40px" height="40px">
 </a>
-|
 <a href="https://ahmetkurt.vercel.app/">
     <img src="ahmetkurt.png" width="70px" height="70px">
 </a>
