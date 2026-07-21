@@ -1,5 +1,4 @@
-## Hey there!
-### I'm Ahmet and welcome to my GitHub profile 👋
+### I'm Ahmet and welcome to my GitHub profile
 - I'm a computer science engineer Istanbul , Turkey
 ### You are just one click away from me!
 <div>
