@@ -1,6 +1,6 @@
 ### I'm Ahmet and welcome to my GitHub profile
 - I'm a computer science engineer Istanbul , Turkey
-### You are just one click away from me!
+### Click!
 <div>
 <a href="https://www.linkedin.com/in/ahmet-kurt-bm/">
     <img src="linkedin.png" width="40px" height="40px">
