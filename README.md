@@ -66,28 +66,30 @@ SQL Server
 
 # 🚀 Featured Projects
 
-## 📊 TestMetrix
+## 📊 [TestMetrix](https://github.com/ahmetkurtbm/testmetrix)
 
 A comprehensive web-based exam analysis platform designed for educational institutions.
 
 ### Key Features
 
-- Excel Import
-- Student Performance Analysis
-- Question Difficulty Analysis
-- KR-20 / KR-21 Calculation
+- Excel Import/Export
+- Folder-based organization (drag & drop)
 - Interactive Charts
 - PDF Reports
 
 **Tech Stack**
 
-React • Next.js • .NET Web API • SQL Server
+Next.js • Prisma • PostgreSQL • NextAuth
+
+[Live Demo](https://tubitak-lake.vercel.app/)
 
 ---
 
-## 🌐 Personal Portfolio
+## 🌐 [Personal Portfolio](https://github.com/ahmetkurtbm/portfolio)
 
 A responsive portfolio website showcasing my projects, skills, and experience.
+
+[Live Demo](https://ahmetkurt.vercel.app/)
 
 ---
 
