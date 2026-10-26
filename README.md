@@ -81,7 +81,7 @@ A comprehensive web-based exam analysis platform designed for educational instit
 
 Next.js • Prisma • PostgreSQL • NextAuth
 
-[Live Demo](https://tubitak-lake.vercel.app/)
+[Live Demo](https://testmetrix.vercel.app/)
 
 ---
 
