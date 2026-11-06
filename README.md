@@ -31,6 +31,7 @@ Demoların hepsi hesap açmadan denenebilir.
 | **[ControlPanel](https://github.com/ahmetkurtbm/controlpanel)** | Vercel projelerinin metrik, log ve trace verisini tek ekranda gösteren izleme paneli. | Next.js, OpenTelemetry, Grafana | [Demo](https://controlpanel-phi-ten.vercel.app/) |
 | **[ReceiptFlow](https://github.com/ahmetkurtbm/receiptflow)** | Fiş ve faturaları yapay zekâyla okuyup muhasebe alanlarına ayırır, tarayıcıda çalışır. | Next.js, Gemini | [Demo](https://receiptflow-ahmetkurt.vercel.app/) |
 | **[TestMetrix](https://github.com/ahmetkurtbm/testmetrix)** | Öğretmenler için sınav madde analizi: güçlük, ayırt edicilik, çeldirici ve PDF raporları. | Next.js, Prisma, PostgreSQL | |
+| **[Pomodoro Odak](https://github.com/ahmetkurtbm/pomodoro-odak)** | Huawei Watch GT 6 için Pomodoro uygulaması: odak turları, titreşimli uyarı, 7 günlük istatistik. Saatin kısıtlı lite platformunda ES5 ve hazır bileşenlerle. | HarmonyOS, JavaScript | |
 
 ## Deneyim
 
