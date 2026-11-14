@@ -19,18 +19,20 @@ Marmara Üniversitesi Bilgisayar Mühendisliği mezunuyum. Sinergy IT'de React, 
 
 ## Projeler
 
-Demoların hepsi hesap açmadan denenebilir.
+Çoğu demo hesap açmadan denenebilir.
 
 | Proje | Ne yapıyor | Teknoloji | |
 |---|---|---|---|
 | **[Kids Academy](https://github.com/ahmetkurtbm/kidsacademy)** | Gerçek bir kurumda kullanılıyor. Deneme sonuçlarını veliler kendi panelinden takip ediyor, WhatsApp bildirimi alıyor. | Next.js, Supabase | [Canlı](https://kids-academy-phi.vercel.app/) |
 | **[QuestionToTest](https://github.com/ahmetkurtbm/questiontotest)** | PDF'teki soruları yapay zekâyla bulur, soru bankasına ekler, cevap anahtarlı test PDF'i üretir. | Next.js, Gemini, PostgreSQL | [Demo](https://questiontotest.vercel.app/) |
 | **[GastroFlow](https://github.com/ahmetkurtbm/gastroflow)** | Çok kiracılı restoran yönetimi: QR menü, POS, mutfak ekranı, reçeteli stok. Kiracı izolasyonu veritabanında, RLS ile. | Next.js, PostgreSQL, Playwright | [Demo](https://gastroflow-pied.vercel.app/) |
+| **[Defterdar](https://github.com/ahmetkurtbm/defterdar)** | Mali müşavirler için aylık evrak toplama: mükellef hesapsız linkten belgesini yükler, yapay zekâ belgeyi sınıflandırır. Çok kiracılı, RLS ile izolasyonlu. | Next.js, PostgreSQL, RLS | |
 | **[Diyetgo](https://github.com/ahmetkurtbm/diyetgo)** | Diyetisyenler için danışan, beslenme planı ve randevu yönetimi. Plan yazarken kalori canlı hesaplanır. | React, Express, Drizzle | [Demo](https://diyetgo-kappa.vercel.app/) |
 | **[GateHub](https://github.com/ahmetkurtbm/gatehub)** | OAuth 2.1 / OpenID Connect ile merkezi giriş (SSO) sağlayıcısı. | Next.js, better-auth, PostgreSQL | [Demo](https://gatehub-ahmetkurt.vercel.app/) |
 | **[ControlPanel](https://github.com/ahmetkurtbm/controlpanel)** | Vercel projelerinin metrik, log ve trace verisini tek ekranda gösteren izleme paneli. | Next.js, OpenTelemetry, Grafana | [Demo](https://controlpanel-phi-ten.vercel.app/) |
+| **[bug-ticaret](https://github.com/ahmetkurtbm/bug-ticaret)** | Gerçekçi bir pazar yeri kod tabanında hata ayıklamayı öğreten açık kaynak eğitim projesi: 19 hata bölümü, ipuçları ve otomatik kontrol. | .NET 10, React, PostgreSQL | |
 | **[ReceiptFlow](https://github.com/ahmetkurtbm/receiptflow)** | Fiş ve faturaları yapay zekâyla okuyup muhasebe alanlarına ayırır, tarayıcıda çalışır. | Next.js, Gemini | [Demo](https://receiptflow-ahmetkurt.vercel.app/) |
-| **[TestMetrix](https://github.com/ahmetkurtbm/testmetrix)** | Öğretmenler için sınav madde analizi: güçlük, ayırt edicilik, çeldirici ve PDF raporları. | Next.js, Prisma, PostgreSQL | |
+| **[TestMetrix](https://github.com/ahmetkurtbm/testmetrix)** | Öğretmenler için sınav madde analizi: güçlük, ayırt edicilik, çeldirici ve PDF raporları. | Next.js, Prisma, PostgreSQL | [Canlı](https://testmetrix.vercel.app/) |
 | **[Pomodoro Odak](https://github.com/ahmetkurtbm/pomodoro-odak)** | Huawei Watch GT 6 için Pomodoro uygulaması: odak turları, titreşimli uyarı, 7 günlük istatistik. Saatin kısıtlı lite platformunda ES5 ve hazır bileşenlerle. | HarmonyOS, JavaScript | |
 
 ## Deneyim
