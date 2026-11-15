@@ -23,7 +23,7 @@ Marmara Üniversitesi Bilgisayar Mühendisliği mezunuyum. Sinergy IT'de React, 
 
 | Proje | Ne yapıyor | Teknoloji | |
 |---|---|---|---|
-| **[Kids Academy](https://github.com/ahmetkurtbm/kidsacademy)** | Gerçek bir kurumda kullanılıyor. Deneme sonuçlarını veliler kendi panelinden takip ediyor, WhatsApp bildirimi alıyor. | Next.js, Supabase | [Canlı](https://kids-academy-phi.vercel.app/) |
+| **[Pusula Aktivite Merkezi](https://github.com/ahmetkurtbm/pusula-aktivite-merkezi)** | Gerçek bir kurumda kullanılıyor. Deneme sonuçlarını veliler kendi panelinden takip ediyor, WhatsApp bildirimi alıyor. | Next.js, Supabase | [Canlı](https://kids-academy-phi.vercel.app/) |
 | **[QuestionToTest](https://github.com/ahmetkurtbm/questiontotest)** | PDF'teki soruları yapay zekâyla bulur, soru bankasına ekler, cevap anahtarlı test PDF'i üretir. | Next.js, Gemini, PostgreSQL | [Demo](https://questiontotest.vercel.app/) |
 | **[GastroFlow](https://github.com/ahmetkurtbm/gastroflow)** | Çok kiracılı restoran yönetimi: QR menü, POS, mutfak ekranı, reçeteli stok. Kiracı izolasyonu veritabanında, RLS ile. | Next.js, PostgreSQL, Playwright | [Demo](https://gastroflow-pied.vercel.app/) |
 | **[Defterdar](https://github.com/ahmetkurtbm/defterdar)** | Mali müşavirler için aylık evrak toplama: mükellef hesapsız linkten belgesini yükler, yapay zekâ belgeyi sınıflandırır. Çok kiracılı, RLS ile izolasyonlu. | Next.js, PostgreSQL, RLS | |
